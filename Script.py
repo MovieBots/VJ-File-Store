@@ -51,7 +51,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Arpitbotmovies1>𝓐𝓡𝓟𝓘𝓣</a>
+🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Arpitbotmovies>𝓐𝓡𝓟𝓘𝓣</a>
 
 👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/+acmZ5TjOCWhiN2I1>𝐕𝐉 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
 
