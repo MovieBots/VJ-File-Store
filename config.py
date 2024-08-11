@@ -23,7 +23,7 @@ API_HASH = environ.get("API_HASH", "1ccf1bd0a86af974e3210a55f662c062")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
 PICS = (environ.get('PICS', 'https://telegra.ph/file/234cea015e320fbb8c719.jpg')).split() # Bot Start Picture
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '893383574').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '893383574 7251306600').split()]
 BOT_USERNAME = environ.get("BOT_USERNAME", "Adultfile_store_bot") # without @
 PORT = environ.get("PORT", "8080")
 
