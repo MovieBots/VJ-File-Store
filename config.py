@@ -60,7 +60,7 @@ VERIFY_MODE = bool(environ.get('VERIFY_MODE', True)) # Set True or False
 
 # If Verify Mode Is True Then Fill All Required Variable, If False Then Don't Fill.
 SHORTLINK_URL = environ.get("SHORTLINK_URL", "primeurl.in") # shortlink domain without https://
-SHORTLINK_API = environ.get("SHORTLINK_API", "63abbd0502e32cb99ea2d82edf518d903c827e3f") # shortlink api
+SHORTLINK_API = environ.get("SHORTLINK_API", "dbb41fb7a393351a6733d1f923376ffbbe4d64e0") # shortlink api
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/+RsQwXu9PiiQ1MjNl") # how to open link 
 
 # Website Info:
