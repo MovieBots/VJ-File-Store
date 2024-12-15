@@ -23,7 +23,7 @@ API_HASH = environ.get("API_HASH", "1ccf1bd0a86af974e3210a55f662c062")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
 PICS = (environ.get('PICS', 'https://telegra.ph/file/3601da69cc03801d4e1d0.jpg')).split() # Bot Start Picture
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '893383574').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '893383574 6324457826').split()]
 BOT_USERNAME = environ.get("BOT_USERNAME", "Adultfile_store_bot") # without @
 PORT = environ.get("PORT", "8080")
 
@@ -59,9 +59,9 @@ PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "False")), True
 VERIFY_MODE = bool(environ.get('VERIFY_MODE', True)) # Set True or False
 
 # If Verify Mode Is True Then Fill All Required Variable, If False Then Don't Fill.
-SHORTLINK_URL = environ.get("SHORTLINK_URL", "shortxlinks.com") # shortlink domain without https://
-SHORTLINK_API = environ.get("SHORTLINK_API", "5f720133a8f53a7299c058d5b8ec918bd899f4f1") # shortlink api
-VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/+azlcsUrTL4llOTdl") # how to open link 
+SHORTLINK_URL = environ.get("SHORTLINK_URL", "modijiurl.com") # shortlink domain without https://
+SHORTLINK_API = environ.get("SHORTLINK_API", "a0c2399faba751854a84f02bb564d6d8f36497f2") # shortlink api
+VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/+2uwi1ctJOLJlZGI9") # how to open link 
 
 # Website Info:
 WEBSITE_URL_MODE = bool(environ.get('WEBSITE_URL_MODE', False)) # Set True or False
